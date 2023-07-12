@@ -4,11 +4,14 @@
 This video game concept is based on a 'snake' that manoeuvres its way around an area that contains food. As the snake finds its way around the area and eats the food, the snake enlarges. As a result, it becomes more difficult to manoeuvre around the area since the snake is bigger in size and it becomes challenging to avoid the side walls. The snake is killed once it reaches the side walls where the game concludes. 
 
 ## Instructions to Play Snake:
+<<<<<<< HEAD
 - In the terminal, change the directory to 'vagrant'
 - Run `git clone https://github.com/lighthouse-labs/snek-multiplayer.git`
 - Open up the 'snek-multiplayer' folder from the link that was cloned
 - In the terminal, run 'npm install'
 - In the terminak, run 'npm run play'
+=======
+>>>>>>> 79eda84fc2a5672ed08ae51f070c91d4b89b1215
 - Open up the server named `snek-multiplayer`, followed by the client `snake-client` and run node play.js.
 - Press on the keys 'W', 'S', 'A', 'D', to navigate the snake around the area.
 - Aim to manoeuvre the snake in the direction of the red rectangle in order to feed the snake.
@@ -19,4 +22,8 @@ This video game concept is based on a 'snake' that manoeuvres its way around an 
 ![Alt text](../../Desktop/Screenshot.png)
 
 ### Credits
+<<<<<<< HEAD
 This game is a modified version of the single player game 'Snek' created by Tania Rascia.
+=======
+This game is a modified version of the single player game 'Snek' created by Tania Rascia.
+>>>>>>> 79eda84fc2a5672ed08ae51f070c91d4b89b1215
