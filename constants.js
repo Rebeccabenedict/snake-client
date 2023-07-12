@@ -6,9 +6,9 @@ const shiftDownwards = 's';
 const shiftLeft = 'a';
 const shiftRight = 'd';
 const comments = {
-  '1': 'This is a snake',
-  '2': 'The snake moves very quickly',
-  '3': 'The snake maneuvres in various directions'
+  '1': 'Say: This is a snake',
+  '2': 'Say: The snake moves very quickly',
+  '3': 'Say: The snake maneuvres in various directions'
 };
 
 // Module is exported
